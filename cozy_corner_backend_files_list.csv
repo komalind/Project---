@@ -1,0 +1,8 @@
+filename,size_kb,description
+package.json,0.77,Node.js dependencies and scripts configuration
+server.js,21.7,Main Express.js server with all API routes
+database.sql,11.5,MySQL database schema and seed data
+.env.example,0.89,Environment variables template
+README.md,5.94,Complete documentation and setup guide
+nodemon.json,0.22,Development server configuration
+.gitignore,0.52,Git ignore patterns
